@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Layout /> should render layout component with Background and Footer component 1`] = `
+<div>
+  <div
+    data-component="Layout"
+  >
+    <div
+      data-component="Background"
+    />
+    <div
+      data-component="Content"
+    >
+      <div
+        class="sc-jSMfEi jUXIxF"
+      />
+    </div>
+    <div
+      data-component="Footer"
+    >
+      © Aplikacja pogodowa 2022
+    </div>
+  </div>
+</div>
+`;

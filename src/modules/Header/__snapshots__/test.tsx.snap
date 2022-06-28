@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render header with logo and input 1`] = `
+<div>
+  <div
+    class="sc-kDDrLX bIOnTK"
+  >
+    <div>
+      <img
+        class="sc-bczRLJ sc-crXcEl kUGlum"
+        src="/assets/logo-mini.svg"
+      />
+      <img
+        class="sc-bczRLJ sc-iqcoie dcMPdw"
+        src="/assets/logo.svg"
+      />
+    </div>
+    <div
+      data-component="modules/CitySearchInput"
+    />
+  </div>
+</div>
+`;

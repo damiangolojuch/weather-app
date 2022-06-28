@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Background /> should display img with image from backgrounds directory 1`] = `
+HTMLCollection [
+  <img
+    alt="Na licencji pexels.com"
+    class="sc-gsnTZi yRSuN"
+    src="/assets/backgrounds/random-img-path.jpg"
+  />,
+]
+`;

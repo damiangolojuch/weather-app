@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchCityBox /> should render antd Input.Search 1`] = `
+<div>
+  <form
+    action="/"
+    class="ant-form ant-form-horizontal"
+    method="GET"
+  >
+    <span
+      class="ant-input-group-wrapper ant-input-search ant-input-search-large ant-input-search-with-button sc-bczRLJ ant-input-group-wrapper-lg"
+    >
+      <span
+        class="ant-input-wrapper ant-input-group"
+      >
+        <input
+          class="ant-input ant-input-lg"
+          name="city"
+          placeholder="Wpisz miejscowość"
+          type="text"
+          value=""
+        />
+        <span
+          class="ant-input-group-addon"
+        >
+          <button
+            class="ant-btn ant-btn-primary ant-btn-lg ant-input-search-button"
+            type="submit"
+          >
+            <span>
+              Szukaj
+            </span>
+          </button>
+        </span>
+      </span>
+    </span>
+  </form>
+</div>
+`;

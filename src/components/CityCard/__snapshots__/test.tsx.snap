@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CityCard /> should render ant design's Card component with WeatherIcon and Statistics component 1`] = `
+<div>
+  <a
+    href="/SomeCity"
+  >
+    <div
+      class="Card"
+    >
+      <div
+        class="sc-gsnTZi lnZKao"
+      >
+        <div
+          class="WeatherIcon"
+        />
+      </div>
+      <div
+        class="CityStatistic"
+        id="windSpeed"
+      />
+      <div
+        class="CityStatistic"
+        id="temperature"
+      />
+      <div
+        class="CityStatistic"
+        id="pressure"
+      />
+      <div
+        class="CityStatistic"
+        id="humidity"
+      />
+    </div>
+  </a>
+</div>
+`;

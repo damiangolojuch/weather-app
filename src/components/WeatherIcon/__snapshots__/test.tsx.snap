@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WeatherIcon /> should render img with proper src 1`] = `
+<div>
+  <img
+    class="sc-bczRLJ"
+    src="/assets/weather_icons/animated/weather-sprite.svg"
+  />
+</div>
+`;
