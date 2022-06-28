@@ -30,6 +30,5 @@ npm i
 - `start.server`: runs server application on `localhost:3000` (required build first)
 - `build`: creates the production build version of server and client scripts
 - `test`: runs jest to test all components and pages
-- `generate <ComponentName>`: generates a new component under `src/components` folder
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
